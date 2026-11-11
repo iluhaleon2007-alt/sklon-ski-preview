@@ -2,6 +2,13 @@
 
 Три варианта дизайна нового сайта. Общий контент, цены и фотографии — разный характер подачи.
 
+## Превью
+
+- Все варианты: https://iluhaleon2007-alt.github.io/sklon-ski-preview/
+- «Вертикаль»: https://iluhaleon2007-alt.github.io/sklon-ski-preview/v1/
+- «Свет»: https://iluhaleon2007-alt.github.io/sklon-ski-preview/v2/
+- «Ясность»: https://iluhaleon2007-alt.github.io/sklon-ski-preview/v3/
+
 | Ссылка | Вариант | Характер |
 | --- | --- | --- |
 | `/` | Выбор варианта | Служебная страница со всеми тремя версиями |
